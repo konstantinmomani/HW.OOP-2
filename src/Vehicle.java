@@ -1,4 +1,4 @@
-public class Vehicle {
+public abstract class Vehicle {
         private final String modelName;
         private final int wheelsCount;
 
